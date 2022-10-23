@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BMFrancisco
+- 👀 I’m interested in learning everything about FullStack
+- 🌱 I’m currently learning with The Odin Project route, just learning for now
+- 📫 How to reach me (Discord): BFrancisco#9848
